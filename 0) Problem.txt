@@ -1,0 +1,19 @@
+Our Scenario
+
+Let's say we have a friend named Tom.
+And Tom wants to sell his car.
+But the problem is he doesn't know how much he should sell his car for.
+Tom wants to sell his car for as much as he can.
+But he also wants to set the price resonably, so someone would want to purchase it.
+So the price he sets should represent the value of the car.
+How can we help Tom determine the best price for his car?
+Let's think like data scientists and clearly define some of his problems.
+For example, is there data on the prices of other cars and their characteristics?
+Wht features of cars affect their prices? Color? Brand?
+Does also horse power effect the selling price or perhaps something else? 
+As a data analyst or data scientist, there are some of the questions we can start thinking about.
+To answer these questions, we're going to need some data. We'll be going into how to understand the data,
+how to import it into python and how to begin looking into some basic insights from the data.
+We'll be looking at he dataset on used car prices.
+The data is in csv format.
+
